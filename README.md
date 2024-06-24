@@ -2,7 +2,7 @@
 Highly motivated Data Analyst fresher with a strong foundation in data analysis, visualization and reporting. 
 Eager to leverage my analytical skills and passion for data driven insights to contribute effectively to a dynamic team and develop expertise in data visualization techniques.
 
-🛠️ Skills
+🛠️ Skills:
 
 Technical Skills:
 
