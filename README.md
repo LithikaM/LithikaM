@@ -5,20 +5,24 @@ Eager to leverage my analytical skills and passion for data driven insights to c
 🛠️ Skills
 
 Technical Skills:
+
 📊 Advanced Excel
 🗄️ MySQL
 📈 Tableau, Power BI
 🐍 Python (NumPy, pandas)
 
 Data Skills:
+
 📊 Data Visualization
 🧮 Data Analysis
 🧹 Data Cleaning
 
-🎓 Education
+🎓 Education:
+
 Bachelor of Technology
 Government college of technology
 2018 - 2022
 
-📜 Certifications
+📜 Certifications:
+
 IIT- M Advanced Programming Professional & Master Data Science
