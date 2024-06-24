@@ -7,14 +7,19 @@ Eager to leverage my analytical skills and passion for data driven insights to c
 Technical Skills:
 
 📊 Advanced Excel
+
 🗄️ MySQL
+
 📈 Tableau, Power BI
+
 🐍 Python (NumPy, pandas)
 
 Data Skills:
 
 📊 Data Visualization
+
 🧮 Data Analysis
+
 🧹 Data Cleaning
 
 🎓 Education:
